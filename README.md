@@ -1,2 +1,2 @@
 # project_1
-This is first repo for learning
+This is a first repo for learning
